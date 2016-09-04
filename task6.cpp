@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Непонятное название функции
 void value(int number)
 {
 	if (number > 0)
@@ -26,6 +27,7 @@ int main()
 	int number;
 	cout << "enter the number: ";
 	cin >> number;
+	// Что делает программа? Пользователь не знает об исходном коде.
 	value(number);
 	cout << endl;
 }
