@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int cube(int number1, int number2)
+int getMaxNumber(int number1, int number2)
 {
 	if (number1 > number2)
 	{
